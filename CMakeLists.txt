@@ -27,4 +27,4 @@ ENDIF (BUILD_SHARED_LIBS)
 #ADD_LIBRARY(MyLibrary ${LIB_TYPE} main.cpp)
 
 TARGET_LINK_LIBRARIES(kinectDataExc ${OpenCV_LIBS} Kinect20.Fusion.lib Kinect20.lib)
-///
+#ddddddd
